@@ -70,18 +70,6 @@ Atuo com testes funcionais e exploratórios, validação de APIs, SQL Server, Az
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=estersousa12&show_icons=true&theme=radical&hide_border=true&count_private=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=estersousa12&layout=compact&theme=radical&hide_border=true"/>
-
-</p>
-
----
-
 ## 🌐 Meu Portfólio
 
 ### https://estersousa12.github.io/portfolio/
