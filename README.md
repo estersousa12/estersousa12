@@ -4,7 +4,7 @@
 
 ### QA Analyst
 
-**Functional Testing • Exploratory Testing • Azure DevOps • SQL Server • API Testing**
+*Functional Testing • Exploratory Testing • Azure DevOps • SQL Server • API Testing • AI for QA*
 
 <br>
 
@@ -26,11 +26,11 @@
 
 ## 👩🏻‍💻 Sobre mim
 
-Sou **QA Analyst** com experiência em qualidade de software, testes funcionais e exploratórios, validação de APIs, Azure DevOps e SQL Server.
+Sou **QA Analyst** com experiência em **Testes Funcionais**, **Testes Exploratórios**, **Validação de APIs**, **Azure DevOps** e **SQL Server**.
 
-Atuo na criação e execução de cenários de testes, análise de regras de negócio, documentação de evidências e validação de funcionalidades em ambientes de Desenvolvimento e Pré-Produção.
+Tenho experiência na elaboração e execução de cenários de teste, análise de regras de negócio, documentação de evidências e validação de funcionalidades em ambientes de Desenvolvimento e Pré-Produção.
 
-Também utilizo **Inteligência Artificial** para apoiar análises técnicas, documentação e produtividade durante o processo de testes.
+Além da atuação em qualidade de software, utilizo **Inteligência Artificial** como apoio à análise técnica, documentação e aumento da produtividade no processo de testes.
 
 ---
 
@@ -60,19 +60,19 @@ Também utilizo **Inteligência Artificial** para apoiar análises técnicas, do
 
 ---
 
-## 🚀 Principais Competências
+## 🚀 Competências
 
-- Testes Funcionais
-- Testes Exploratórios
-- Testes de API
-- Testes de Regressão
-- Planejamento de Testes
-- Documentação de Evidências
+- Functional Testing
+- Exploratory Testing
+- API Testing
+- Regression Testing
+- Test Planning
+- Test Documentation
 - Azure DevOps
 - SQL Server
 - Postman
-- Validação com Usuários
-- IA aplicada ao processo de QA
+- User Validation
+- AI for QA
 
 ---
 
