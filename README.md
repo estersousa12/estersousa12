@@ -1,18 +1,17 @@
 <p align="center">
-  <img src="./banner.png" width="100%" alt="Ester de Sousa - QA Analyst"/>
+  <img src="./banner.png" alt="Ester de Sousa - QA Analyst" width="100%">
 </p>
 
 <p align="center">
-
-# Ester de Sousa
 
 ### QA Analyst • Testes Funcionais • Testes Exploratórios • APIs REST
 
 </p>
 
 <p align="center">
+
 <a href="https://estersousa12.github.io/portfolio/">
-<img src="https://img.shields.io/badge/Portfólio-FF2F8C?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+<img src="https://img.shields.io/badge/🌐_Portfólio-FF2F8C?style=for-the-badge"/>
 </a>
 
 <a href="https://www.linkedin.com/in/ester-de-sousa-666265248/">
@@ -27,7 +26,7 @@
 
 ---
 
-# 🚀 Tecnologias
+# 🛠 Stack Principal
 
 <p align="center">
 
@@ -57,75 +56,48 @@
 
 ---
 
-# 📊 Estatísticas do GitHub
+# 🌟 Projetos em destaque
 
-<p align="center">
+Projetos desenvolvidos para demonstrar minha experiência prática em testes de software, APIs REST, SQL Server e documentação técnica.
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=estersousa12&show_icons=true&theme=radical&hide_border=true"/>
+## 🌐 Portfólio
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=estersousa12&layout=compact&theme=radical&hide_border=true"/>
+Meu portfólio profissional desenvolvido em HTML, CSS e JavaScript.
 
-</p>
+🔗 https://estersousa12.github.io/portfolio/
 
----
-
-# 🌟 Projetos em Destaque
-
-## 🌐 Portfolio
-
-Meu portfólio profissional desenvolvido em HTML, CSS e JavaScript, publicado com GitHub Pages.
-
-**Principais recursos**
-
-- Interface responsiva
-- Tema claro/escuro
-- Animações suaves
-- Experiência profissional
-- Certificações
-- Projetos
-- Contato
-
-🔗 **Site**
-
-https://estersousa12.github.io/portfolio/
-
-📁 **Repositório**
-
-https://github.com/estersousa12/portfolio
+📁 https://github.com/estersousa12/portfolio
 
 ---
 
 ## 🧪 Postman for QA
 
-Projeto desenvolvido para demonstrar testes de APIs REST utilizando Postman.
+Projeto focado em testes de APIs REST utilizando Postman.
 
-Inclui documentação completa das requisições, Collections reutilizáveis, Environments e validações automatizadas.
-
-**Principais recursos**
+### Conteúdo
 
 - Collections
 - Environments
-- Documentação
-- GET
+- Documentação Técnica
+- Requisições GET
 - POST
 - PUT
 - DELETE
-- Scripts de validação
-- Status Code
-- Response Body
+- Scripts automatizados
+- Validação de Status Code
+- Validação de Response Body
+- Validação de Schema
 - Boas práticas para testes de APIs
 
-📁
-
-https://github.com/estersousa12/postman-for-qa
+📁 https://github.com/estersousa12/postman-for-qa
 
 ---
 
 ## 🗄 SQL for QA
 
-Projeto voltado para consultas SQL aplicadas a cenários reais de testes de software.
+Projeto voltado para consultas SQL utilizadas em cenários reais de testes.
 
-**Principais recursos**
+### Conteúdo
 
 - SELECT
 - JOIN
@@ -136,19 +108,17 @@ Projeto voltado para consultas SQL aplicadas a cenários reais de testes de soft
 - Validação de Dados
 - Massas de Teste
 
-📁
-
-https://github.com/estersousa12/sql-for-qa
+📁 https://github.com/estersousa12/sql-for-qa
 
 ---
 
 # 👋 Sobre mim
 
-QA Analyst com experiência em testes funcionais, exploratórios e APIs REST, atuando desde a análise de requisitos até a validação em produção.
+QA Analyst com experiência em testes funcionais, exploratórios e APIs REST, atuando em todas as etapas do processo de qualidade, desde a análise de requisitos até a validação em produção.
 
-Tenho experiência na elaboração de cenários de teste, análise de regras de negócio, documentação de evidências, validação com usuários, consultas SQL Server e utilização do Azure DevOps para gestão das atividades de qualidade.
+Tenho experiência com elaboração e execução de cenários de teste, documentação de evidências, validação de regras de negócio, consultas SQL Server, Azure DevOps e testes de APIs utilizando Postman.
 
-Também utilizo Inteligência Artificial como apoio à análise técnica, documentação e produtividade, sempre realizando validação humana dos resultados.
+Busco entregar testes bem documentados, com foco na qualidade do software, melhoria contínua dos processos e colaboração com equipes de desenvolvimento.
 
 ---
 
@@ -156,63 +126,65 @@ Também utilizo Inteligência Artificial como apoio à análise técnica, docume
 
 ## ✅ Testes
 
-- Funcionais
-- Exploratórios
-- Regressivos
-- Não Funcionais
-- Validação com Usuários
-- Homologação
+`Funcionais`
+`Exploratórios`
+`Regressivos`
+`Não Funcionais`
+`Validação com Usuários`
+`Homologação`
 
 ---
 
 ## 🌐 APIs
 
-- REST
-- Postman
-- Status Codes
-- Headers
-- Request Body
-- Response Body
-- Schema Validation
+`REST`
+`Postman`
+`Status Code`
+`Headers`
+`Request Body`
+`Response Body`
+`Schema Validation`
 
 ---
 
 ## 🗄 Banco de Dados
 
-- SQL Server
-- Consultas SQL
-- Validação de Dados
-- Massas de Teste
+`SQL Server`
+`Consultas SQL`
+`Validação de Dados`
+`Massas de Teste`
 
 ---
 
 ## 🛠 Ferramentas
 
-- Azure DevOps
-- Git
-- GitHub
-- VS Code
+`Azure DevOps`
+`Git`
+`GitHub`
+`VS Code`
 
 ---
 
 ## 🤖 IA aplicada ao QA
 
-- Análise Técnica
-- Documentação
+Utilizo Inteligência Artificial como apoio para:
+
+- Documentação técnica
+- Elaboração de cenários de teste
+- Análise de requisitos
+- Organização de evidências
 - Produtividade
+
+Sempre realizando validação humana antes da utilização dos resultados.
 
 ---
 
 # 🎓 Formação e Certificações
 
 - Tecnólogo em Análise e Desenvolvimento de Sistemas
-
 - PTQS — Júlio de Lima
-
 - QA Turbo — Qazando
-
 - Introdução a SQL
-
 - Testes Automatizados
 
 ---
@@ -221,7 +193,7 @@ Também utilizo Inteligência Artificial como apoio à análise técnica, docume
 
 📧 **E-mail**
 
-estersousa_ata@outlook.com
+**estersousa_ata@outlook.com**
 
 💼 **LinkedIn**
 
@@ -235,8 +207,6 @@ https://estersousa12.github.io/portfolio/
 
 <p align="center">
 
-### 💬
-
-*"Qualidade não é apenas encontrar defeitos. É gerar confiança em cada entrega."*
+### "Qualidade não é apenas encontrar defeitos. É gerar confiança em cada entrega."
 
 </p>
