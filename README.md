@@ -1,25 +1,28 @@
 <p align="center">
-  <img src="./banner.png" alt="Ester de Sousa - QA Analyst" width="100%">
-</p>
-
-<h1 align="center">Ester de Sousa</h1>
-
-<p align="center">
-QA Analyst • Testes Funcionais • Testes Exploratórios • APIs REST
+  <img src="./banner.png" width="100%" alt="Ester de Sousa - QA Analyst"/>
 </p>
 
 <p align="center">
-  <a href="https://estersousa12.github.io/portfolio/">
-    <img src="https://img.shields.io/badge/PORTFÓLIO-FF2F8C?style=for-the-badge&logo=googlechrome&logoColor=white"/>
-  </a>
 
-  <a href="https://www.linkedin.com/in/ester-de-sousa-666265248/">
-    <img src="https://img.shields.io/badge/LINKEDIN-FF2F8C?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
+# Ester de Sousa
 
-  <a href="mailto:estersousa_ata@outlook.com">
-    <img src="https://img.shields.io/badge/E--MAIL-FF2F8C?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
+### QA Analyst • Testes Funcionais • Testes Exploratórios • APIs REST
+
+</p>
+
+<p align="center">
+<a href="https://estersousa12.github.io/portfolio/">
+<img src="https://img.shields.io/badge/Portfólio-FF2F8C?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/ester-de-sousa-666265248/">
+<img src="https://img.shields.io/badge/LinkedIn-FF2F8C?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:estersousa_ata@outlook.com">
+<img src="https://img.shields.io/badge/E--mail-FF2F8C?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
 </p>
 
 ---
@@ -54,26 +57,54 @@ QA Analyst • Testes Funcionais • Testes Exploratórios • APIs REST
 
 ---
 
-# 🌟 Projetos em destaque
+# 📊 Estatísticas do GitHub
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=estersousa12&show_icons=true&theme=radical&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=estersousa12&layout=compact&theme=radical&hide_border=true"/>
+
+</p>
+
+---
+
+# 🌟 Projetos em Destaque
 
 ## 🌐 Portfolio
 
 Meu portfólio profissional desenvolvido em HTML, CSS e JavaScript, publicado com GitHub Pages.
 
-🔗 https://estersousa12.github.io/portfolio/
+**Principais recursos**
 
-📁 https://github.com/estersousa12/portfolio
+- Interface responsiva
+- Tema claro/escuro
+- Animações suaves
+- Experiência profissional
+- Certificações
+- Projetos
+- Contato
+
+🔗 **Site**
+
+https://estersousa12.github.io/portfolio/
+
+📁 **Repositório**
+
+https://github.com/estersousa12/portfolio
 
 ---
 
 ## 🧪 Postman for QA
 
-Projeto focado em testes de APIs REST utilizando Postman.
+Projeto desenvolvido para demonstrar testes de APIs REST utilizando Postman.
 
-Inclui:
+Inclui documentação completa das requisições, Collections reutilizáveis, Environments e validações automatizadas.
+
+**Principais recursos**
 
 - Collections
-- Environment
+- Environments
 - Documentação
 - GET
 - POST
@@ -82,16 +113,19 @@ Inclui:
 - Scripts de validação
 - Status Code
 - Response Body
+- Boas práticas para testes de APIs
 
-📁 https://github.com/estersousa12/postman-for-qa
+📁
+
+https://github.com/estersousa12/postman-for-qa
 
 ---
 
 ## 🗄 SQL for QA
 
-Projeto voltado para consultas SQL utilizadas em cenários reais de testes.
+Projeto voltado para consultas SQL aplicadas a cenários reais de testes de software.
 
-Inclui:
+**Principais recursos**
 
 - SELECT
 - JOIN
@@ -99,129 +133,110 @@ Inclui:
 - ORDER BY
 - HAVING
 - Subqueries
-- Validação de dados
-- Massas de teste
+- Validação de Dados
+- Massas de Teste
 
-📁 https://github.com/estersousa12/sql-for-qa
+📁
+
+https://github.com/estersousa12/sql-for-qa
 
 ---
 
 # 👋 Sobre mim
 
-Sou QA Analyst com atuação em testes funcionais, exploratórios e testes de APIs REST.
+QA Analyst com experiência em testes funcionais, exploratórios e APIs REST, atuando desde a análise de requisitos até a validação em produção.
 
-Tenho experiência na elaboração e execução de cenários de teste, análise de regras de negócio, documentação de evidências, validação com usuários e consultas SQL Server para conferência de dados.
+Tenho experiência na elaboração de cenários de teste, análise de regras de negócio, documentação de evidências, validação com usuários, consultas SQL Server e utilização do Azure DevOps para gestão das atividades de qualidade.
 
-Também utilizo Inteligência Artificial como apoio à análise técnica e documentação, sempre realizando validação humana dos resultados.
+Também utilizo Inteligência Artificial como apoio à análise técnica, documentação e produtividade, sempre realizando validação humana dos resultados.
 
 ---
 
 # 🧠 Competências
 
-### ✅ Testes
+## ✅ Testes
 
-`Funcionais`
-
-`Exploratórios`
-
-`Regressivos`
-
-`Não Funcionais`
-
-`Validação com usuários`
-
-`Homologação`
+- Funcionais
+- Exploratórios
+- Regressivos
+- Não Funcionais
+- Validação com Usuários
+- Homologação
 
 ---
 
-### 🌐 APIs
+## 🌐 APIs
 
-`REST`
-
-`Postman`
-
-`Status Codes`
-
-`Headers`
-
-`Request Body`
-
-`Response Body`
-
-`Schema Validation`
+- REST
+- Postman
+- Status Codes
+- Headers
+- Request Body
+- Response Body
+- Schema Validation
 
 ---
 
-### 🗄 Banco de Dados
+## 🗄 Banco de Dados
 
-`SQL Server`
-
-`Consultas SQL`
-
-`Validação de Dados`
-
-`Massas de Teste`
+- SQL Server
+- Consultas SQL
+- Validação de Dados
+- Massas de Teste
 
 ---
 
-### 🛠 Ferramentas
+## 🛠 Ferramentas
 
-`Azure DevOps`
-
-`Git`
-
-`GitHub`
-
-`VS Code`
+- Azure DevOps
+- Git
+- GitHub
+- VS Code
 
 ---
 
-### 🤖 IA aplicada ao QA
+## 🤖 IA aplicada ao QA
 
-`Análise Técnica`
-
-`Documentação`
-
-`Produtividade`
+- Análise Técnica
+- Documentação
+- Produtividade
 
 ---
 
 # 🎓 Formação e Certificações
 
-• Tecnólogo em Análise e Desenvolvimento de Sistemas
+- Tecnólogo em Análise e Desenvolvimento de Sistemas
 
-• PTQS — Júlio de Lima
+- PTQS — Júlio de Lima
 
-• QA Turbo — Qazando
+- QA Turbo — Qazando
 
-• Introdução a SQL
+- Introdução a SQL
 
-• Testes Automatizados
-
----
-
-# 🌎 Portfólio
-
-🔗 https://estersousa12.github.io/portfolio/
+- Testes Automatizados
 
 ---
 
 # 📬 Contato
 
-📧 estersousa_ata@outlook.com
+📧 **E-mail**
 
-💼 LinkedIn
+estersousa_ata@outlook.com
+
+💼 **LinkedIn**
 
 https://www.linkedin.com/in/ester-de-sousa-666265248/
+
+🌐 **Portfólio**
+
+https://estersousa12.github.io/portfolio/
 
 ---
 
 <p align="center">
 
-<i>
+### 💬
 
-"Qualidade não é apenas encontrar defeitos. É gerar confiança em cada entrega."
-
-</i>
+*"Qualidade não é apenas encontrar defeitos. É gerar confiança em cada entrega."*
 
 </p>
