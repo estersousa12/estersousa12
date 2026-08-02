@@ -26,11 +26,11 @@
 
 ## 👩🏻‍💻 Sobre mim
 
-Sou **Analista de QA** com experiência em qualidade de software, testes funcionais e exploratórios, validação de APIs, Azure DevOps e SQL Server.
+Sou **QA Analyst** com experiência em qualidade de software, testes funcionais e exploratórios, validação de APIs, Azure DevOps e SQL Server.
 
-Atuo na criação e execução de cenários de testes, documentação de evidências, análise de regras de negócio e validação de funcionalidades em ambientes de Desenvolvimento e Pré-Produção.
+Atuo na criação e execução de cenários de testes, análise de regras de negócio, documentação de evidências e validação de funcionalidades em ambientes de Desenvolvimento e Pré-Produção.
 
-Também utilizo Inteligência Artificial para apoiar análises técnicas, documentação e otimizar o processo de testes.
+Também utilizo **Inteligência Artificial** para apoiar análises técnicas, documentação e produtividade durante o processo de testes.
 
 ---
 
@@ -88,7 +88,7 @@ Também utilizo Inteligência Artificial para apoiar análises técnicas, docume
 
 ## 🌐 Portfólio
 
-🔗 **https://estersousa12.github.io/portfolio/**
+➡️ **https://estersousa12.github.io/portfolio/**
 
 ---
 
