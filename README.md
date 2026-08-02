@@ -2,9 +2,11 @@
 
 # 🐞 Ester de Sousa
 
-### QA Analyst
+<h3>QA Analyst</h3>
 
-<sub>Functional Testing • Exploratory Testing • Azure DevOps • SQL Server • APIs • AI for QA</sub>
+<p>
+Functional Testing • Exploratory Testing • Azure DevOps • SQL Server • APIs • AI for QA
+</p>
 
 <br>
 
@@ -12,7 +14,7 @@
 <img src="https://img.shields.io/badge/🌐%20Portfolio-FF4FA3?style=for-the-badge">
 </a>
 
-<a href="https://www.linkedin.com/in/ester-de-sousa-662652548/">
+<a href="https://www.linkedin.com/in/ester-de-sousa-666265248/">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
@@ -24,17 +26,17 @@
 
 ---
 
-# 👩🏻 Sobre mim
+## 👩🏻‍💻 Sobre mim
 
-Sou **QA Analyst** com experiência em **Testes Funcionais**, **Testes Exploratórios**, **Validação de APIs**, **SQL Server** e **Azure DevOps**.
+Sou **QA Analyst** com experiência em **Testes Funcionais**, **Testes Exploratórios**, **Validação de APIs**, **Azure DevOps** e **SQL Server**.
 
-Atuo na elaboração e execução de cenários de testes, documentação de evidências, análise de requisitos, homologação com usuários e validação de funcionalidades em ambientes de Desenvolvimento e Pré-Produção.
+Tenho experiência na elaboração e execução de cenários de testes, documentação de evidências, análise de regras de negócio, homologação com usuários e validação de funcionalidades em ambientes de Desenvolvimento e Pré-Produção.
 
 Também utilizo **Inteligência Artificial** para apoiar análises técnicas, documentação, produtividade e otimização do processo de testes.
 
 ---
 
-# 🛠️ Tecnologias
+## 🛠️ Tecnologias
 
 <div align="center">
 
@@ -62,48 +64,45 @@ Também utilizo **Inteligência Artificial** para apoiar análises técnicas, do
 
 ---
 
-# 🚀 Competências
+## 🚀 Competências
 
 | Qualidade de Software | Ferramentas |
-|-----------------------|-------------|
-| ✔ Functional Testing | Azure DevOps |
-| ✔ Exploratory Testing | SQL Server |
-| ✔ API Testing | Postman |
-| ✔ Regression Testing | Git |
-| ✔ Test Planning | GitHub |
-| ✔ Test Documentation | VS Code |
-| ✔ User Validation | APIs |
-| ✔ AI applied to QA | Artificial Intelligence |
+|------------------------|-------------|
+| ✔ Testes Funcionais | Azure DevOps |
+| ✔ Testes Exploratórios | SQL Server |
+| ✔ Testes de API | Postman |
+| ✔ Testes de Regressão | Git |
+| ✔ Planejamento de Testes | GitHub |
+| ✔ Evidências de Testes | VS Code |
+| ✔ Homologação com Usuários | APIs |
+| ✔ IA aplicada à Qualidade | Inteligência Artificial |
 
 ---
 
-# 🎓 Certificações
+## 🎓 Certificações
 
-📜 **PTQS – Júlio de Lima**
-
-📜 **QA Turbo – Qazando**
-
-📜 **SQL Fundamentals**
-
-📜 **Automated Testing**
+- 🎓 **PTQS – Júlio de Lima**
+- 🎓 **QA Turbo – Qazando**
+- 🎓 **SQL Fundamentals**
+- 🎓 **Automated Testing**
 
 ---
 
-# 🌎 Portfólio
+## 🌐 Portfólio
 
-### 🔗 https://estersousa12.github.io/portfolio/
+**🔗 https://estersousa12.github.io/portfolio/**
 
 ---
 
 <div align="center">
 
-## 📫 Vamos nos conectar?
+### 📫 Vamos nos conectar?
 
-Sempre aberta para compartilhar conhecimento, trocar experiências e conversar sobre Qualidade de Software.
+Estou sempre aberta para compartilhar conhecimento, trocar experiências e conversar sobre **Qualidade de Software**.
 
 <br>
 
-<a href="https://www.linkedin.com/in/ester-de-sousa-662652548/">
+<a href="https://www.linkedin.com/in/ester-de-sousa-666265248/">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
@@ -113,6 +112,6 @@ Sempre aberta para compartilhar conhecimento, trocar experiências e conversar s
 
 <br><br>
 
-> 🐞 *"Quality isn't just about finding bugs. It's about delivering confidence."*
+> *"Quality isn't just about finding bugs. It's about delivering confidence."*
 
 </div>
