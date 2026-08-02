@@ -4,11 +4,10 @@
 
 ### QA Analyst
 
-<p>
-Functional Testing • Exploratory Testing • Azure DevOps • SQL Server • API Testing
-</p>
+**Functional Testing • Exploratory Testing • Azure DevOps • SQL Server • API Testing**
 
-<p>
+<br>
+
 <a href="https://estersousa12.github.io/portfolio/">
 <img src="https://img.shields.io/badge/🌐%20Portfolio-FF4FA3?style=for-the-badge"/>
 </a>
@@ -18,10 +17,8 @@ Functional Testing • Exploratory Testing • Azure DevOps • SQL Server • A
 </a>
 
 <a href="mailto:estersousa_ata@outlook.com">
-<img src="https://img.shields.io/badge/E-mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/E--mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-
-</p>
 
 </div>
 
@@ -29,23 +26,21 @@ Functional Testing • Exploratory Testing • Azure DevOps • SQL Server • A
 
 ## 👩🏻‍💻 Sobre mim
 
-Sou **QA Analyst** com experiência em testes funcionais e exploratórios, validação de APIs, Azure DevOps e SQL Server.
+Sou **Analista de QA** com experiência em qualidade de software, testes funcionais e exploratórios, validação de APIs, Azure DevOps e SQL Server.
 
-Tenho atuação na elaboração e execução de cenários de teste, análise de regras de negócio, documentação de evidências e validação de funcionalidades em ambientes de Desenvolvimento e Pré-Produção.
+Atuo na criação e execução de cenários de testes, documentação de evidências, análise de regras de negócio e validação de funcionalidades em ambientes de Desenvolvimento e Pré-Produção.
 
-Também utilizo **Inteligência Artificial** para apoiar análises técnicas, documentação e otimizar o processo de testes.
+Também utilizo Inteligência Artificial para apoiar análises técnicas, documentação e otimizar o processo de testes.
 
 ---
 
 ## 🛠️ Tecnologias
 
-<p align="center">
+<div align="center">
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,java"/>
 
-</p>
-
-<p align="center">
+<br><br>
 
 <img src="https://img.shields.io/badge/Azure%20DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white"/>
 
@@ -57,32 +52,33 @@ Também utilizo **Inteligência Artificial** para apoiar análises técnicas, do
 
 <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/API_Testing-8A2BE2?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/API%20Testing-8A2BE2?style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/AI_for_QA-FF4FA3?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/AI%20for%20QA-FF4FA3?style=for-the-badge"/>
 
-</p>
+</div>
 
 ---
 
 ## 🚀 Principais Competências
 
-- ✔ Functional Testing
-- ✔ Exploratory Testing
-- ✔ API Testing
-- ✔ Regression Testing
-- ✔ Test Planning
-- ✔ Test Documentation
-- ✔ Azure DevOps
-- ✔ SQL Server
-- ✔ Postman
-- ✔ User Validation
-- ✔ AI applied to QA
+- Testes Funcionais
+- Testes Exploratórios
+- Testes de API
+- Testes de Regressão
+- Planejamento de Testes
+- Documentação de Evidências
+- Azure DevOps
+- SQL Server
+- Postman
+- Validação com Usuários
+- IA aplicada ao processo de QA
 
 ---
 
-## 🎓 Certificações
+## 🎓 Formação e Certificações
 
+- Tecnólogo em Análise e Desenvolvimento de Sistemas
 - PTQS — Júlio de Lima
 - QA Turbo — Qazando
 - SQL Fundamentals
@@ -98,8 +94,6 @@ Também utilizo **Inteligência Artificial** para apoiar análises técnicas, do
 
 <div align="center">
 
-### 💬
-
-> *"Quality isn't just about finding bugs. It's about ensuring confidence in every delivery."*
+> *"Quality isn't just about finding bugs. It's about building confidence in every delivery."*
 
 </div>
