@@ -1,23 +1,17 @@
 <p align="center">
-  <img src="./banner.png" width="100%" alt="QA Analyst Banner"/>
-</p>
 
-<p align="center">
-<strong>QA Analyst</strong> • Testes Funcionais • Testes Exploratórios • APIs REST
-</p>
-
-<p align="center">
 <a href="https://estersousa12.github.io/portfolio/">
-<img src="https://img.shields.io/badge/PORTFÓLIO-FF2F8C?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+<img src="https://img.shields.io/badge/PORTFÓLIO-6D1938?style=for-the-badge&logo=googlechrome&logoColor=white"/>
 </a>
 
 <a href="https://www.linkedin.com/in/ester-de-sousa-666265248/">
-<img src="https://img.shields.io/badge/LINKEDIN-FF2F8C?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LINKEDIN-6D1938?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="mailto:estersousa_ata@outlook.com">
-<img src="https://img.shields.io/badge/E--MAIL-FF2F8C?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/E--MAIL-6D1938?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
+
 </p>
 
 ---
