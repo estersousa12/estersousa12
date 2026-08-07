@@ -126,7 +126,7 @@ Também uso Inteligência Artificial como apoio na documentação técnica, aná
 
 # Formação e Certificações
 
-- Tecnólogo em Análise e Desenvolvimento de Sistemas — UNOPAR
+- Análise e Desenvolvimento de Sistemas — UNOPAR
 - PTQS — Júlio de Lima
 - QA Turbo — Qazando
 - Introdução a SQL
